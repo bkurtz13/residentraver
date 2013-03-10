@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67f8709e-7c69-4331-a91b-363c25cab2bd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/zombie.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/dorm1.js" afterPath="$PROJECT_DIR$/lib/game/levels/dorm1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -12,7 +12,8 @@
     <file path="/index.html" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362636981351" ignored="false" />
     <file path="/Dummy.txt" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362793394194" ignored="false" />
     <file path="/main.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362883116789" ignored="false" />
-    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362883572363" ignored="false" />
+    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362958859174" ignored="false" />
+    <file path="/zombie.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362959107564" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,18 @@
       <file leaf-file-name="player.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="12" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.8018648">
+            <state line="80" column="26" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.82167834">
+              <folding>
+                <element signature="e#0#155#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zombie.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/zombie.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="44" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#155#0" expanded="false" />
               </folding>
@@ -83,6 +95,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/zombie.js" />
       </list>
     </option>
   </component>
@@ -97,7 +110,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -381,9 +394,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/zombie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="44" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#155#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="12" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.8018648">
+        <state line="80" column="26" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.82167834">
           <folding>
             <element signature="e#0#155#0" expanded="false" />
           </folding>
