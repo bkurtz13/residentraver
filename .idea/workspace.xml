@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67f8709e-7c69-4331-a91b-363c25cab2bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/dorm1.js" afterPath="$PROJECT_DIR$/lib/game/levels/dorm1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="residentraver.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362636981351" ignored="false" />
     <file path="/Dummy.txt" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362793394194" ignored="false" />
-    <file path="/main.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362881478953" ignored="false" />
-    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362882359189" ignored="false" />
+    <file path="/main.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362883116789" ignored="false" />
+    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362883572363" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="20" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+            <state line="27" column="26" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,7 +53,7 @@
       <file leaf-file-name="player.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="33" selection-start="480" selection-end="480" vertical-scroll-proportion="0.3170163">
+            <state line="72" column="12" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.8018648">
               <folding>
                 <element signature="e#0#155#0" expanded="false" />
               </folding>
@@ -366,16 +367,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/impact/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+        <state line="27" column="26" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="33" selection-start="480" selection-end="480" vertical-scroll-proportion="0.3170163">
+        <state line="72" column="12" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.8018648">
           <folding>
             <element signature="e#0#155#0" expanded="false" />
           </folding>
