@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67f8709e-7c69-4331-a91b-363c25cab2bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/zombie.js" afterPath="$PROJECT_DIR$/lib/game/entities/zombie.js" />
     </list>
     <ignored path="residentraver.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362636981351" ignored="false" />
     <file path="/Dummy.txt" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362793394194" ignored="false" />
     <file path="/main.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362961723289" ignored="false" />
-    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362966310946" ignored="false" />
+    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362967044217" ignored="false" />
     <file path="/zombie.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362966528857" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,19 +48,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="player.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="player.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="243" column="40" selection-start="6904" selection-end="6904" vertical-scroll-proportion="0.0">
+            <state line="238" column="26" selection-start="6874" selection-end="6874" vertical-scroll-proportion="0.79881656">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zombie.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="zombie.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/zombie.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="91" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.8390533">
+            <state line="76" column="91" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,8 +87,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/game/main.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/zombie.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
       </list>
     </option>
   </component>
@@ -410,16 +408,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/zombie.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="243" column="40" selection-start="6904" selection-end="6904" vertical-scroll-proportion="0.0">
+        <state line="76" column="91" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/zombie.js">
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="91" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.8390533">
+        <state line="238" column="26" selection-start="6874" selection-end="6874" vertical-scroll-proportion="0.79881656">
           <folding />
         </state>
       </provider>
