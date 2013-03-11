@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67f8709e-7c69-4331-a91b-363c25cab2bd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/levelexit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/dorm1.js" afterPath="$PROJECT_DIR$/lib/game/levels/dorm1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="residentraver.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362636981351" ignored="false" />
     <file path="/Dummy.txt" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362793394194" ignored="false" />
-    <file path="/main.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362961723289" ignored="false" />
-    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362967044217" ignored="false" />
+    <file path="/main.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362978411122" ignored="false" />
+    <file path="/player.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362979471122" ignored="false" />
     <file path="/zombie.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362966528857" ignored="false" />
+    <file path="/levelexit.js" changelist="67f8709e-7c69-4331-a91b-363c25cab2bd" time="1362979123752" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +44,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="45" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
+            <state line="6" column="15" selection-start="94" selection-end="94" vertical-scroll-proportion="0.11888112">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="player.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="levelexit.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/levelexit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="19" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#157#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="player.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="238" column="26" selection-start="6874" selection-end="6874" vertical-scroll-proportion="0.79881656">
+            <state line="19" column="40" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,9 +102,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/zombie.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/levelexit.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
+        <option value="$PROJECT_DIR$/lib/game/main.js" />
       </list>
     </option>
   </component>
@@ -389,13 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="45" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="19" selection-start="312" selection-end="312" vertical-scroll-proportion="-11.769231">
@@ -415,9 +425,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/levelexit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="19" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#157#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="238" column="26" selection-start="6874" selection-end="6874" vertical-scroll-proportion="0.79881656">
+        <state line="19" column="40" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="94" selection-end="94" vertical-scroll-proportion="0.11888112">
           <folding />
         </state>
       </provider>
